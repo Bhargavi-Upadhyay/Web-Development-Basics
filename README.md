@@ -6,15 +6,21 @@ A simple and visually appealing course card built using HTML and CSS. This proje
 # Features
 
 Responsive Design: The course card adjusts seamlessly to different screen sizes, ensuring a consistent user experience on both mobile devices and desktops.
+
 Structured Layout: The card is divided into sections for the course image, title, publication date, description, and instructor details.
+
 Interactive Elements: A button is included that demonstrates basic interactivity by triggering a JavaScript alert.
+
 Modern Styling: Uses CSS for a clean, modern design that incorporates web fonts from Google Fonts for enhanced typography.
+
 Instructor Information: Includes a section for displaying the instructor’s image and name, adding a personalized touch to the card.
 
 # Technologies Used
 
 HTML: For creating the structure and layout of the course card.
+
 CSS: For styling the card and making it responsive and visually appealing.
+
 JavaScript: For adding basic interactivity to the button.
 
 # How to Use
