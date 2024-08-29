@@ -19,7 +19,7 @@ JavaScript: For adding basic interactivity to the button.
 
 # How to Use
 1.Clone the Repository:
- git clone https://github.com/Bhargavi-Upadhyay/Web-Develpment-Basics-Course-Card.git
+ git clone https://github.com/Bhargavi-Upadhyay/Web-Development-Basics-Course-Card.git
 
 2.Open the Project:
 Navigate to the cloned repository on your local machine.
